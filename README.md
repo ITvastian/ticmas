@@ -27,6 +27,6 @@ npm install --save-dev jest ts-jest @types/jest @testing-library/react @testing-
 ### Instrucciones
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/usuario/proyecto.git
+   git clone https://github.com/ITvastian/ticmas.git
 
    npm run dev
